@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://visionlab-sapienza.github.io/about/</loc>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://visionlab-sapienza.github.io/tags/index/</loc>
   </url><url>
-    <loc>https://example.com/tags/presentation/</loc>
+    <loc>https://visionlab-sapienza.github.io/tags/presentation/</loc>
   </url><url>
-    <loc>https://example.com/tags/repos/</loc>
+    <loc>https://visionlab-sapienza.github.io/tags/repos/</loc>
   </url><url>
-    <loc>https://example.com/repos/</loc>
+    <loc>https://visionlab-sapienza.github.io/repos/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://visionlab-sapienza.github.io/tags/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://visionlab-sapienza.github.io/</loc>
   </url>
 </urlset>

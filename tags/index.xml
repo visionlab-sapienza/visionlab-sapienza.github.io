@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on VisionLab Github Repository</title>
-    <link>https://example.com/tags/</link>
+    <link>https://visionlab-sapienza.github.io/tags/</link>
     <description>Recent content in Tags on VisionLab Github Repository</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://visionlab-sapienza.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>index</title>
-      <link>https://example.com/tags/index/</link>
+      <link>https://visionlab-sapienza.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/index/</guid>
+      <guid>https://visionlab-sapienza.github.io/tags/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>presentation</title>
-      <link>https://example.com/tags/presentation/</link>
+      <link>https://visionlab-sapienza.github.io/tags/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/presentation/</guid>
+      <guid>https://visionlab-sapienza.github.io/tags/presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>repos</title>
-      <link>https://example.com/tags/repos/</link>
+      <link>https://visionlab-sapienza.github.io/tags/repos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/repos/</guid>
+      <guid>https://visionlab-sapienza.github.io/tags/repos/</guid>
       <description></description>
     </item>
     
